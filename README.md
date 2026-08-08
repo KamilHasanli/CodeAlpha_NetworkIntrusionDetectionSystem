@@ -83,7 +83,7 @@ Check the `screenshots/` folder for:
 
 ## Demo video
 
-Full walkthrough here: [LinkedIn video](PASTE_YOUR_LINK_HERE)
+Full walkthrough here: [LinkedIn video](www.linkedin.com/in/kamil-hasanli-7b4427327)
 
 ---
 
