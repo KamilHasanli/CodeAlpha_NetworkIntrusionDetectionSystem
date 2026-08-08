@@ -83,7 +83,7 @@ Check the `screenshots/` folder for:
 
 ## Demo video
 
-Full walkthrough here: [LinkedIn video](www.linkedin.com/in/kamil-hasanli-7b4427327)
+Full walkthrough here: https://www.linkedin.com/posts/kamil-hasanli-7b4427327_cybersecurity-codealpha-networksecurity-ugcPost-7491894594964615168-7Neo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ3dbgBfPYV8JykrAXhjPN5gYJbf8dupTA
 
 ---
 
